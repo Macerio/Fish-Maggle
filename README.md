@@ -26,4 +26,4 @@ Our team is composed of :
 - Jordan Trémoureux
 - Thomas Wisniewski
 
-![Maggle-logo](Maggle.png)
+![Maggle-logo](http://perso.jordantremoureux.fr/img/Maggle.png)
