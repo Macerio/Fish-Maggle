@@ -7,18 +7,23 @@
   - Estimated Time Remaining : <code>8h?</code>   
   - First Estimated Time : <code>8h?</code>    
   
-- [ ] [T002](Tasks/T002.md) **Detect fish with Haar Cascade Classifier Training**  
+- [ ] [T002](Tasks/T002.md) **Detect fish with the help of Haar Cascade Classifier Training**  
   - Added : <code>21 Nov.</code>   
   - Due : <code>31 Nov.</code>   
   - Progress : <code>5% [#...................]</code>   
   - Estimated Time Remaining : <code>12h?</code>   
   - First Estimated Time : <code>12h?</code>    
-  - Step : 1 - Rescale all Picture to have the same size 
-           2 - Apply Haar Cascade Classifier Training 
-           3 - Apply Haar Cascade Classifier Testing 
   - Remark (useful link) : [Haar Cascade Classifier Training](http://www.trevorsherrard.com/Haar_training.html)
   
 ### URGENT
+
+- [ ] [T003](Tasks/T003.md) **Push the first kernel**  
+  - Added : <code>21 Nov.</code>   
+  - Due : <code>22 Nov.</code>   
+  - Progress : <code>80% [##################.]</code>   
+  - Estimated Time Remaining : <code>20min</code>   
+  - First Estimated Time : <code>20min</code>    
+
 
 ### IMPORTANT
 
