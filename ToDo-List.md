@@ -13,6 +13,9 @@
   - Progress : <code>5% [#...................]</code>   
   - Estimated Time Remaining : <code>12h?</code>   
   - First Estimated Time : <code>12h?</code>    
+  - Step : 1 - Rescale all Picture to have the same size
+           2 - Apply Haar Cascade Classifier Training
+           3 - Apply Haar Cascade Classifier Testing
   - Remark (useful link) : [Haar Cascade Classifier Training](http://www.trevorsherrard.com/Haar_training.html)
   
 ### URGENT
