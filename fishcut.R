@@ -1,7 +1,9 @@
 library(shiny)
 library(jpeg)
 library(data.table)
-setwd('/Users/HUGO/Documents/Kaggle/FISH/')
+setwd('/Users/Jordan/Documents/Projets/Maggle/FISH')
+  #'/Users/HUGO/Documents/Kaggle/FISH/'
+  #'/Users/Jordan/Documents/Projets/Maggle/FISH'
 folder <- './train'
 print(list.files(folder))
 tmp <- lapply(list.files(folder), function(x) list.files(paste0(folder, '/', x)))
