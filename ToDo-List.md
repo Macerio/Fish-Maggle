@@ -7,7 +7,7 @@
   - Estimated Time Remaining : <code>8h?</code>   
   - First Estimated Time : <code>8h?</code>    
   
-- [ ] [T002](Tasks/T002.md) **Detect fish with the help of Haar Cascade Classifier Training**  
+- [ ] [T002](Tasks/T002.md) **Detect fish with Haar Cascade Classifier Training**  
   - Added : <code>21 Nov.</code>   
   - Due : <code>31 Nov.</code>   
   - Progress : <code>5% [#...................]</code>   
