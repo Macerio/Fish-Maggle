@@ -1,11 +1,11 @@
 
 ### IMPORTANT & URGENT
 - [ ] [T001](Tasks/T001.md) **Cut all fishes**  
-  > Added : <code>21 Nov.</code>   
-  > Due : <code>30 Nov.</code>   
-  > Progress : <code>10% [##..................]</code>   
-  > Estimated Time Remaining : <code>8h?</code>   
-  > First Estimated Time : <code>8h?</code>    
+  - Added : <code>21 Nov.</code>   
+  - Due : <code>30 Nov.</code>   
+  - Progress : <code>10% [##..................]</code>   
+  - Estimated Time Remaining : <code>8h?</code>   
+  - First Estimated Time : <code>8h?</code>    
 
 ### URGENT
 
