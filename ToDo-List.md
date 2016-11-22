@@ -30,13 +30,12 @@
 - [ ] [T002](Tasks/T002.md) **To-Do list and Task Manager**
   - Added : <code>21 Nov.</code>
   - Progress : <code>60% [############........]</code>
-  - Estimated Time Remaining : <code>2h</code>
+  - Estimated Time Remaining : <code>2h</code>  
 
-
-  - [ ] [C001](Tasks/T002.md) **Team Web Page**
-    - Added : <code>22 Nov.</code>
-    - Progress : <code>5% [#...................]</code>
-    - Estimated Time Remaining : <code>8h</code>
+- [ ] [C001](Tasks/T002.md) **Team Web Page**
+   - Added : <code>22 Nov.</code>
+   - Progress : <code>5% [#...................]</code>
+   - Estimated Time Remaining : <code>8h</code>
 
 
 ### OTHERS
