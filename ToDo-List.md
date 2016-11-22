@@ -34,8 +34,9 @@
 
 - [ ] [C001](Tasks/C001.md) **Team Web Page**
    - Added : <code>22 Nov.</code>
-   - Progress : <code>5% [#...................]</code>
+   - Progress : <code>20% [####................]</code>
    - Estimated Time Remaining : <code>8h</code>
+   - First Estimated Time : <code>10h</code> 
 
 
 ### OTHERS
