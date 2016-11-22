@@ -17,12 +17,7 @@
 
 ### URGENT
 
-- [ ] [T003](Tasks/T003.md) **Push the first kernel**  
-  - Added : <code>21 Nov.</code>   
-  - Due : <code>22 Nov.</code>   
-  - Progress : <code>80% [##################.]</code>   
-  - Estimated Time Remaining : <code>20min</code>   
-  - First Estimated Time : <code>20min</code>    
+
 
 
 ### IMPORTANT
@@ -42,7 +37,12 @@
 ### OTHERS
 
 ### DONE/ABORTED
-
+- [x] [T003](Tasks/T003.md) **Push the first kernel**  
+  - Added : <code>21 Nov.</code>   
+  - Due : <code>22 Nov.</code>   
+  - Progress : <code>100% [###################]</code>   
+  - Estimated Time Remaining : <code>30min</code>   
+  - First Estimated Time : <code>20min</code>    
 
 ------
 
