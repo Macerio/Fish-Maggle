@@ -1,7 +1,7 @@
 library(shiny)
 library(jpeg)
 library(data.table)
-setwd('/Users/Jordan/Documents/Projets/Maggle/FISH')
+setwd('/Users/HUGO/Documents/Kaggle/FISH/')
   #'/Users/HUGO/Documents/Kaggle/FISH/'
   #'/Users/Jordan/Documents/Projets/Maggle/FISH'
 folder <- './train'
@@ -16,6 +16,7 @@ files <- files[label != 'test_stg1']
 #Choose one:
 # 1: new file
 markers <- data.table(image= character(),
+                      label = character(),
                       head_x = integer(),
                       head_y = integer(),
                       tail_x = integer(),
@@ -75,8 +76,10 @@ server <- function(input, output) {
   observeEvent(input$save, {
     if (length(obj$heads_x) > 0) {
       img = files[obj$i, image]
+      lbel = files[obj$i, label]
       markers <<- rbind(markers[image != img],
                         data.table(image = img,
+                                   label = lbel,
                                    head_x = obj$heads_x,
                                    head_y = obj$heads_y,
                                    tail_x = obj$tails_x,
@@ -98,8 +101,8 @@ server <- function(input, output) {
     lab <- files[obj$i, label]
     img <- files[obj$i, image]
     #plot(obj$img)
-    plot(1, type="n", xlim=c(0, 1200), ylim=c(0, 800))
-    rasterImage(obj$img,0, 0, 1200, 800)
+    plot(1, type="n", xlim=c(0, 1723), ylim=c(0, 964)) # max size of image
+    rasterImage(obj$img,0, 0, dim(obj$img)[2], dim(obj$img)[1])
     title(paste(lab, img, 'id = ',obj$i))
     points(obj$heads_x, obj$heads_y, col = 'blue', lwd = 3, pch = 16)
     points(obj$tails_x, obj$tails_y, col = 'red', lwd = 3, pch = 16)
