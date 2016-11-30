@@ -36,8 +36,9 @@
 
 - [ ] [K001](Tasks/KOO1.md) **Kernel about the logloss function**  
   - Added : <code>30 Nov.</code>     
-  - Progress : <code>5% [#...................]</code>   
-  - Estimated Time Remaining : <code>4h30</code>   
+  - Progress : <code>70% [##############......]</code>   
+  - Time spent <code>5h</code>
+  - Estimated Time Remaining : <code>2h30</code>   
   - First Estimated Time : <code>5h</code>
 
 ### DONE/ABORTED

@@ -2,3 +2,4 @@ test_stg1
 train
 markers.csv
 .Rhistory
+.Rproj.user
