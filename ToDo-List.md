@@ -18,23 +18,27 @@
 ### URGENT
 
 
-
-
 ### IMPORTANT
 
 - [ ] [T002](Tasks/T002.md) **To-Do list and Task Manager**
   - Added : <code>21 Nov.</code>
-  - Progress : <code>60% [############........]</code>
-  - Estimated Time Remaining : <code>2h</code>  
+  - Progress : <code>80% [################....]</code>
+  - Estimated Time Remaining : <code>1h</code>  
 
 - [ ] [C001](Tasks/C001.md) **Team Web Page [->ICI<-](https://maggle-team.github.io/hello/)**
    - Added : <code>22 Nov.</code>
-   - Progress : <code>20% [####................]</code>
-   - Estimated Time Remaining : <code>8h</code>
+   - Progress : <code>80% [################....]</code>
+   - Estimated Time Remaining : <code>2h</code>
    - First Estimated Time : <code>10h</code>
 
 
 ### OTHERS
+
+- [ ] [K001](Tasks/KOO1.md) **Kernel about the logloss function**  
+  - Added : <code>30 Nov.</code>     
+  - Progress : <code>5% [#...................]</code>   
+  - Estimated Time Remaining : <code>4h30</code>   
+  - First Estimated Time : <code>5h</code>
 
 ### DONE/ABORTED
 - [x] [T003](Tasks/T003.md) **Push the first kernel**  
