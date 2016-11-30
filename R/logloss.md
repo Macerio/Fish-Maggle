@@ -7,7 +7,7 @@ November 30, 2016
 
 ```r
 # Loading packages
-pkgs = c("ggplot2", "data.table")
+pkgs = c("ggplot2", "data.table","DT")
 inst = lapply(pkgs, library, character.only = TRUE)
 ```
 
@@ -20,9 +20,7 @@ My goal here is to describe the [multi-class logarithmic loss](https://www.kaggl
 
 ## What is this function ?
 
-$$
-\text{logloss} = -\dfrac{1}{N} \sum_{i=1}^{N} \sum_{j=1}^{M} y_{ij} \log(p_{ij})
-$$
+$$\text{logloss} = -\dfrac{1}{N} \sum_{i=1}^{N} \sum_{j=1}^{M} y_{ij} \log(p_{ij})$$
   
 - $N$ is the number of image in the test set, so $N=1000$.  
 - $i$ is an image in the test set.  
@@ -287,6 +285,7 @@ fileUrl2 <- "https://www.kaggle.io/svf/445238/40dacb2a0eb96787be3e4373d253071e/s
 download.file(fileUrl2, method = "curl", destfile = "../../output/subm2.csv")
 subm2 <- data.table(read.csv("../../output/subm2.csv"))
 #write.csv(subm2, file = "../../output/subm2.csv", row.names = FALSE)
+#datatable(subm2)
 subm2
 ```
 
